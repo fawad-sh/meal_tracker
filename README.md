@@ -1,6 +1,6 @@
 # An online Meal Tracker built using React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), and built using Node.js ad Express
 
 Happy Programming!
 Fawad Sheikh
